@@ -1,0 +1,9 @@
+{
+  "name": "ngScroll",
+  "version": "1.0",
+  "license": "MIT",
+  "main": "./ngscroll.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
